@@ -1,2 +1,1 @@
-Working Link of this practice project:
-imagesbazarreact.netlify.app
+Working Link: https://imagesbazarreact.netlify.app/
